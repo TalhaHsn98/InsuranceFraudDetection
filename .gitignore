@@ -1,0 +1,13 @@
+# Ignore virtual environment folders
+venv/
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore logs, local data
+*.log
+
+# If you have .env with credentials
+.env
